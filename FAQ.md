@@ -1,6 +1,6 @@
-# USAF FAQ
+# UASF FAQ
 
-## USAF General Questions
+## UASF General Questions
 ### Does a UASF use node count to determine activation?
 A UASF does not require signaling, voting, or counting nodes. If rough consensus can be had by major economic players (exchanges, major businesses, etc.), a flag date or block height would be set, at which point all economic nodes would enforce the rules of the UASF.  Users that decide to enforce the new rules will only follow blocks that conform to the existing rules.  A UASF could be enforced by any number of economic nodes, although miners may only choose to follow such rules if there was significant economic weight behind it.
 
